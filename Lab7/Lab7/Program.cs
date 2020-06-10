@@ -38,28 +38,28 @@ namespace Lab7
             foreach (var d in decrypt)
                 WriteLine(d);
             WriteLine($"\nВремя: {sw.ElapsedMilliseconds} мс.");
-            ////Base64
-            //WriteLine("\n\nBase64:");
-            //Backpack bp64 = new Backpack();
-            //List<double> secretKey64 = bp64.GenerateSecretKey(6);
-            //WriteLine("Закрытый ключ:");
-            //foreach (double sc in secretKey64)
-            //    WriteLine(sc);
-            //List<double> openKey64 = bp64.GenerateOpenKey(secretKey64);
-            //WriteLine("Открытый ключ:");
-            //foreach (double ok in openKey64)
-            //    WriteLine(ok);
-            //WriteLine("Введите текст:");
-            //List<double> encrypt64 = bp64.Encrypt64(ReadLine(), openKey64);
-            //WriteLine("Encrypt:");
-            //foreach (var t in encrypt64)
-            //    WriteLine(t);
-            //WriteLine("Закрытый ключ:");
-            //foreach (var clk in secretKey64)
-            //    WriteLine(clk);
-            //List<double> decrypt64 = bp64.Decrypt64(encrypt64, secretKey64);
-            //foreach (var d64 in decrypt64)
-            //    WriteLine(d64);
+            //Base64
+            WriteLine("\n\nBase64:");
+            Backpack bp64 = new Backpack();
+            List<double> secretKey64 = bp64.GenerateSecretKey(6);
+            WriteLine("Закрытый ключ:");
+            foreach (double sc in secretKey64)
+                WriteLine(sc);
+            List<double> openKey64 = bp64.GenerateOpenKey(secretKey64);
+            WriteLine("Открытый ключ:");
+            foreach (double ok in openKey64)
+                WriteLine(ok);
+            WriteLine("Введите текст:");
+            List<double> encrypt64 = bp64.Encrypt64(ReadLine(), openKey64);
+            WriteLine("Encrypt:");
+            foreach (var t in encrypt64)
+                WriteLine(t);
+            WriteLine("Закрытый ключ:");
+            foreach (var clk in secretKey64)
+                WriteLine(clk);
+            List<double> decrypt64 = bp64.Decrypt64(encrypt64, secretKey64);
+            foreach (var d64 in decrypt64)
+                WriteLine(d64);
         }
     }
 }

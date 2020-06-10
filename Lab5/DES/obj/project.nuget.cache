@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kobR8jF/8wrVONWN7v5RNi5Ou+LuJMh77wBK1crJPhx7u9PVDq0SUDYEtOtviAvYiYc/i/NQQAGN72m5qnQC8A==",
+  "dgSpecHash": "riK1gqApN41w//DXAWH9+5iqi/jo21qn7RTQrBteLwPogFRwhQCBfG1F8CRp0MjJOvEwmH+NovzYHmtTWGDDfQ==",
   "success": true,
-  "projectFilePath": "E:\\PI_Labs\\DES\\DES\\DES.csproj",
+  "projectFilePath": "E:\\PI_Labs\\Lab5\\DES\\DES.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

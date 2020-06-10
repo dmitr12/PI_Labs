@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PI_Labs\\DES\\DES\\DES.csproj",
+      "projectUniqueName": "E:\\PI_Labs\\Lab5\\DES\\DES.csproj",
       "projectName": "DES",
-      "projectPath": "E:\\PI_Labs\\DES\\DES\\DES.csproj",
+      "projectPath": "E:\\PI_Labs\\Lab5\\DES\\DES.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\PI_Labs\\DES\\DES\\obj\\",
+      "outputPath": "E:\\PI_Labs\\Lab5\\DES\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

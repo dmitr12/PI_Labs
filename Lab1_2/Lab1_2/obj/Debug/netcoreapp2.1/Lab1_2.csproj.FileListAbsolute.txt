@@ -1,0 +1,23 @@
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.deps.json
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.runtimeconfig.json
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.runtimeconfig.dev.json
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.dll
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.pdb
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.csprojAssemblyReference.cache
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.csproj.CoreCompileInputs.cache
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.AssemblyInfoInputs.cache
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.AssemblyInfo.cs
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.dll
+E:\Универ\3 курс\2\ЗИ\Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.pdb
+E:\PI_Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.deps.json
+E:\PI_Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.runtimeconfig.json
+E:\PI_Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.runtimeconfig.dev.json
+E:\PI_Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.dll
+E:\PI_Labs\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.pdb
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.csprojAssemblyReference.cache
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.AssemblyInfoInputs.cache
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.AssemblyInfo.cs
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.csproj.CoreCompileInputs.cache
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.dll
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.pdb
+E:\PI_Labs\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.genruntimeconfig.cache

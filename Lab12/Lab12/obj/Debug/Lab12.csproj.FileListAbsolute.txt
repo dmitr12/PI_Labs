@@ -1,0 +1,20 @@
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\bin\Debug\Lab12.exe.config
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\bin\Debug\Lab12.exe
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\bin\Debug\Lab12.pdb
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.exe
+E:\Защита информации и криптография\Семестр2\Lab12\Lab12\obj\Debug\Lab12.pdb
+E:\PI_Labs\Lab12\Lab12\bin\Debug\Lab12.exe.config
+E:\PI_Labs\Lab12\Lab12\bin\Debug\Lab12.exe
+E:\PI_Labs\Lab12\Lab12\bin\Debug\Lab12.pdb
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.exe
+E:\PI_Labs\Lab12\Lab12\obj\Debug\Lab12.pdb
